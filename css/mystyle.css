@@ -1,0 +1,17 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #dffc00;
+    width: 100%;
+    margin: 0;
+}
+.p {
+    color: #939344;
+}
